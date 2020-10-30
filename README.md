@@ -1,5 +1,6 @@
 # twilio_sms_reminders
-Pytnon scripts for sending periodic, scheduled sms reminders using the twilio library/service
+Pytnon scripts for sending periodic, scheduled sms reminders using the twilio library/service.
+
 The scripts are writen for the purpose of reminding patients about their medication intake, but the scripts can be altered for your particular application.
 The scripts are intended to fullfil the service presented here: https://youtu.be/H4PVDc8M0a0
 
